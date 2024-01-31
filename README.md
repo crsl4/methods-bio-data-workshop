@@ -37,3 +37,20 @@ Originally from Mexico City, Claudia Sol&iacute;s-Lemus is an assistant professo
     </div>
 </div>
 
+Born and raised in Montreal, Emile Gluck-Thaler is an assistant professor in the [Department of Plant Pathology](https://plantpath.wisc.edu/) at the [University of Wisconsin-Madison](http://www.wisc.edu) and a Discovery Fellow at the [Wisconsin Institute for Discovery](https://wid.wisc.edu/). 
+
+<div class="container">
+    <div class="row">
+        <div class="column">
+            <a href="../pics/Gluck-Thaler_1_square.jpg">
+            <img src="https://crsl4.github.io/forensic-stat//pics/Gluck-Thaler_1_square.jpg" width="150"
+                  title="Emile Gluck-Thaler" alt="Emile Gluck.Thaler"/></a>
+        </div>
+        <div class="column">
+            Pronouns: he/him <br/>
+            <a href="https://plantpath.wisc.edu/faculty/emile-gluck-thaler/">Faculty website</a><br/>
+            <a href="https://scholar.google.com/citations?user=0CQpHksAAAAJ&hl=en">Google scholar</a><br/>
+            <a href="https://github.com/egluckthaler">GitHub</a><br/>
+        </div>
+    </div>
+</div>
