@@ -17,9 +17,7 @@ The workshop in Spring 2024 will take place in Russell 584 the first Wednesday o
 
 ## Meet the organizers
 
-Claudia Sol&iacute;s-Lemus is an assistant professor at the [Wisconsin Institute for Discovery](https://wid.wisc.edu/) and the [Department of Plant Pathology](https://plantpath.wisc.edu/) at the [University of Wisconsin-Madison](http://www.wisc.edu). Originally from Mexico City, she did her Undergraduate degrees
-in Actuarial Sciences and Applied Mathematics at [ITAM](https://www.itam.mx/en).
-Then, she did a MA in [Mathematics](http://www.math.wisc.edu) and a PhD in [Statistics](http://www.stat.wisc.edu) at the [University of Wisconsin-Madison](http://www.wisc.edu). 
+Originally from Mexico City, Claudia Sol&iacute;s-Lemus is an assistant professor at the [Wisconsin Institute for Discovery](https://wid.wisc.edu/) and the [Department of Plant Pathology](https://plantpath.wisc.edu/) at the [University of Wisconsin-Madison](http://www.wisc.edu). 
 
 <div class="container">
     <div class="row">
