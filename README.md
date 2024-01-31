@@ -43,7 +43,9 @@ Born and raised in Montreal, Emile Gluck-Thaler is an assistant professor in the
 <div class="container">
     <div class="row">
         <div class="column">
-            <a href="../pics/Gluck-Thaler_1_square.jpg"></a>
+            <a href="../pics/Gluck-Thaler_1_square.jpg">
+               <img src="https://crsl4.github.io/forensic-stat//pics/claudiaSmall1.png" width="150"
+                  title="Emile Gluck-Thaler" alt="Emile Gluck.Thaler"/></a>
         </div>
         <div class="column">
             Pronouns: he/him <br/>
