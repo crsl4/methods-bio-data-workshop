@@ -9,7 +9,7 @@ The workshop in Spring 2024 will take place in Russell 584 the first Wednesday o
 
 | Date | Speaker | Lecture notes |
 | :---:   | :---: | :---:       |
-| February 7 | [Kris Sankaran](https://krisrs1128.github.io/LSLab/) | [notes]() | 
+| February 7 | [Kris Sankaran](https://krisrs1128.github.io/LSLab/) | [slides](https://go.wisc.edu/v4hsh9), [notebook](https://colab.research.google.com/drive/1IyMEQJwkslPzL9FYd5atvyGORqW9IrCI?usp=sharing) | 
 | March 6 |  |  | 
 | April 3 |  |  | 
 | May 1 |  |  | 
