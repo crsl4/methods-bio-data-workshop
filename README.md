@@ -7,12 +7,12 @@ This website will host the materials for the "Methods for Biological Data" Works
 
 The workshop in Spring 2024 will take place in Russell 584 the first Wednesday of every month 2-3:30pm.
 
-| Date | Speaker | Lecture notes |
+| Date | Speaker | Title | Lecture notes |
 | :---:   | :---: | :---:       |
-| February 7 | [Kris Sankaran](https://krisrs1128.github.io/LSLab/) | [slides](https://go.wisc.edu/v4hsh9), [notebook](https://colab.research.google.com/drive/1IyMEQJwkslPzL9FYd5atvyGORqW9IrCI?usp=sharing) | 
-| March 6 |  |  | 
-| April 3 |  |  | 
-| May 1 |  |  | 
+| February 7 | [Kris Sankaran](https://krisrs1128.github.io/LSLab/) | Simulation in Omics | [slides](https://go.wisc.edu/v4hsh9), [notebook](https://colab.research.google.com/drive/1IyMEQJwkslPzL9FYd5atvyGORqW9IrCI?usp=sharing) | 
+| March 6 |  |  |  |
+| April 3 |  |  |  |
+| May 1 |  |  |  |
 
 
 ## Meet the organizers
