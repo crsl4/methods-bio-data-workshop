@@ -44,7 +44,7 @@ Born and raised in Montreal, Emile Gluck-Thaler is an assistant professor in the
     <div class="row">
         <div class="column">
             <a href="pics/Gluck-Thaler_1_square.jpg">
-               <img src="https://github.com/crsl4/methods-bio-data-workshop/blob/pics/Gluck-Thaler_1_square.jpg" width="150"
+               <img src="https://crsl4.github.io/methods-bio-data-workshop//pics/Gluck-Thaler_1_square.jpg" width="150"
                   title="Emile Gluck-Thaler" alt="Emile Gluck.Thaler"/></a>
         </div>
         <div class="column">
