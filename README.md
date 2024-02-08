@@ -24,7 +24,7 @@ Originally from Mexico City, Claudia Sol&iacute;s-Lemus is an assistant professo
         <div class="column">
             <a href="pics/claudiaSmall1.png">
             <img src="https://github.com/crsl4/methods-bio-data-workshop/blob/pics/claudiaSmall1.png" width="150"
-                  title="Claudia Sol&iacute;s-Lemus" alt="Claudia Sol&iacute;s.Lemus"/></a>
+                  title="Claudia Sol&iacute;s-Lemus"/></a>
         </div>
         <div class="column">
             Pronouns: she/her <br/>
