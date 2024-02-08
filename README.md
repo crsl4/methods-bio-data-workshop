@@ -22,7 +22,7 @@ Originally from Mexico City, Claudia Sol&iacute;s-Lemus is an assistant professo
 <div class="container">
     <div class="row">
         <div class="column">
-            <a href="../pics/claudiaSmall1.png">
+            <a href="pics/claudiaSmall1.png">
             <img src="https://crsl4.github.io/methods-bio-data-worshop//pics/claudiaSmall1.png" width="150"
                   title="Claudia Sol&iacute;s-Lemus" alt="Claudia Sol&iacute;s.Lemus"/></a>
         </div>
@@ -42,7 +42,7 @@ Born and raised in Montreal, Emile Gluck-Thaler is an assistant professor in the
 <div class="container">
     <div class="row">
         <div class="column">
-            <a href="../pics/Gluck-Thaler_1_square.jpg">
+            <a href="pics/Gluck-Thaler_1_square.jpg">
                <img src="https://crsl4.github.io/methods-bio-data-worshop//pics/Gluck-Thaler_1_square.jpg" width="150"
                   title="Emile Gluck-Thaler" alt="Emile Gluck.Thaler"/></a>
         </div>
