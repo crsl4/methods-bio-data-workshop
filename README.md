@@ -23,7 +23,7 @@ Originally from Mexico City, Claudia Sol&iacute;s-Lemus is an assistant professo
     <div class="row">
         <div class="column">
             <a href="pics/claudiaSmall1.png">
-            <img src="https://crsl4.github.io/forensic-stat//pics/claudiaSmall1.png" width="150"
+            <img src="https://crsl4.github.io/methods-bio-data-workshop//pics/claudiaSmall1.png" width="150"
                   title="Claudia Sol&iacute;s-Lemus"/></a>
         </div>
         <div class="column">
