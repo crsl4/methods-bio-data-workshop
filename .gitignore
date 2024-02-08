@@ -91,9 +91,7 @@ Backup[ ]of[ ]*.numbers/
 # inkscape drawings
 *.svg
 *.eps
-*.jpg
 *.jpeg
-*.png
 *.dot
 *.json
 
