@@ -10,7 +10,7 @@ The workshop in Spring 2024 will take place in Russell 584 the first Wednesday o
 | Date | Speaker | Title | Lecture notes |
 | :---:   | :---: | :---:       |
 | February 7 | [Kris Sankaran](https://krisrs1128.github.io/LSLab/) | Simulation in Omics | [slides](https://go.wisc.edu/v4hsh9), [notebook](https://colab.research.google.com/drive/1IyMEQJwkslPzL9FYd5atvyGORqW9IrCI?usp=sharing) | 
-| March 6 |  |  |  |
+| March 6 | [Toby Baril](https://tobybaril.github.io) | Annotating Transposable Elements with Earl Grey: A Beginner's Guide | [slides](./sources/uwMadisonWorkshopEarlGrey_participantCopy.pptx) |
 | April 3 | [Amy Willis](https://statdivlab.github.io/) |  |  |
 | May 1 |  |  |  |
 
