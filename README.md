@@ -2,6 +2,15 @@
 
 This website will host the materials for the "Methods for Biological Data" Workshop.
 
+## Schedule Fall 2024
+
+The workshop in Fall 2024 will take place in Russell 584 the first Thursday of every month 1-2:30pm (except September).
+
+| Date | Speaker | Title | Lecture notes |
+| :---:   | :---: | :---:       |
+| October 3 | Christina Koch |  | 
+| November 7 | |  | 
+| December 5 | |  | 
 
 ## Schedule Spring 2024
 
