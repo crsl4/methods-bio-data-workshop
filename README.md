@@ -21,7 +21,7 @@ The workshop in Spring 2024 will take place in Russell 584 the first Wednesday o
 | February 7 | [Kris Sankaran](https://krisrs1128.github.io/LSLab/) | Simulation in Omics | [slides](https://go.wisc.edu/v4hsh9), [notebook](https://colab.research.google.com/drive/1IyMEQJwkslPzL9FYd5atvyGORqW9IrCI?usp=sharing) | 
 | March 6 | [Toby Baril](https://tobybaril.github.io) | Annotating Transposable Elements with Earl Grey: A Beginner's Guide | [slides](./sources/uwMadisonWorkshopEarlGrey_participantCopy.pptx), [recording](https://www.youtube.com/watch?v=D4GBld4X4kg) |
 | April 3 | [Amy Willis](https://statdivlab.github.io/) | Meaningful comparisons of abundance based on high-throughput sequencing data | [slides](https://drive.google.com/file/d/1wBmpoHzVuMK90HP7K9zx6VH-8XtUXLo7/view?usp=sharing), [radEmu github](https://github.com/statdivlab/radEmu), [r script](https://drive.google.com/file/d/1-81vbFoxBd8NK1q33EMOWBDyyA8WrnoD/view), [recording](https://youtu.be/gIFJpU_QvmA) |
-| May 1 |  |  |  |
+| May 1 | [Zachary Konkel](https://www.linkedin.com/in/konkelzach/) | Democratizing genomics with Mycotools | [mycotools gitlab](https://gitlab.com/xonq/mycotools), [mycotools workshop content](https://github.com/xonq/mycotools/blob/master/test/mycotools_workshop.md), [recording](https://www.youtube.com/watch?v=5FVbRDy-nBU)|
 
 
 ## Meet the organizers
