@@ -9,7 +9,7 @@ The workshop in Fall 2024 will take place in Russell 584 the first Thursday of e
 | Date | Speaker | Title | Lecture notes |
 | :---:   | :---: | :---:       |
 | October 3 | Christina Koch |  | 
-| November 7 | |  | 
+| November 7 | [Jacob Steenwyk](https://jlsteenwyk.com/) |  | 
 | December 5 | |  | 
 
 ## Schedule Spring 2024
