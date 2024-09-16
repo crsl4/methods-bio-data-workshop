@@ -10,7 +10,7 @@ The workshop in Fall 2024 will take place in Russell 584 the first Thursday of e
 | :---:   | :---: | :---:       |
 | October 3 | Christina Koch |  | 
 | November 7 | [Jacob Steenwyk](https://jlsteenwyk.com/) |  | 
-| December 5 | |  | 
+| December 5 | Emily Davenport |  | 
 
 ## Schedule Spring 2024
 
