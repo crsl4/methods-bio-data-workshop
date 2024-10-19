@@ -8,7 +8,7 @@ The workshop in Fall 2024 will take place in Russell 584 the first Thursday of e
 
 | Date | Speaker | Title | Lecture notes |
 | :---:   | :---: | :---:       |
-| October 3 | Christina Koch |  | 
+| October 3 | [Christina Koch](https://wid.wisc.edu/people/christina-koch/) | Advance your researc: scale out your computing with [CHTC](https://chtc.cs.wisc.edu/) | [slides](https://docs.google.com/presentation/d/1L6elI8Npk5Eor-t-hvaJ7RI7q-54M8hVJCZ4AetWl84/edit?usp=sharing) |
 | November 7 | [Jacob Steenwyk](https://jlsteenwyk.com/) |  | 
 | December 5 | Emily Davenport |  | 
 
